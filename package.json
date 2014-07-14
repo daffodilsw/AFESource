@@ -7,7 +7,7 @@
         "url": "https://github.com/daffodilsw/AFESource"
     },
     "dependencies": {
-        "AFB": "git+https://d2311242bfab57adf2b7b7892f9d2c0ceac0be39:x-oauth-basic@github.com/daffodilsw/AFE.git"
+        "AFE": "git+https://d2311242bfab57adf2b7b7892f9d2c0ceac0be39:x-oauth-basic@github.com/daffodilsw/AFE.git"
         
     }
 }
