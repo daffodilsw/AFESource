@@ -1,0 +1,14 @@
+{
+    "name": "AFESource",
+    "version": "0.0.1",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/daffodilsw/AFESource"
+    },
+    "dependencies": {
+        "AFB": "git+https://d2311242bfab57adf2b7b7892f9d2c0ceac0be39:x-oauth-basic@github.com/daffodilsw/AFE.git"
+        
+    }
+}
+
